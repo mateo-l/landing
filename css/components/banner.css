@@ -1,0 +1,24 @@
+.banner  {
+	
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.7) 50%, rgba(0,0,0,0.0) 90%) , url(../../images/writer.jpg), url(../../images/writer.jpg);
+	color: white;
+	padding: 150px  0px  ;
+	background-size: cover;
+	background-position: center;
+}
+
+banner h1 {
+	font-size: 50px ;
+
+
+}
+
+banner
+
+banner h2  {
+
+	font-size: 30px ;
+	font-weight: lighter;
+	margin-bottom: 40px ;
+
+}
